@@ -1,3 +1,6 @@
 yolov5
 .env
 __pycache__
+prediction1.ipynb
+test.py
+faces

@@ -1,7 +1,7 @@
 from flask import Flask, render_template, Response
 
 app = Flask(__name__)
-from face_detection import generate_frames
+from yolo import generate_frames
 
 
 @app.route("/")
