@@ -1,0 +1,11 @@
+.dashboard {
+  display: flex;
+}
+
+.videostream {
+  border: 1px solid black;
+}
+
+.faces {
+  border: 1px solid black;
+}

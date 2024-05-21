@@ -4,3 +4,10 @@ __pycache__
 prediction1.ipynb
 test.py
 faces
+.vscode
+.$code_organization.drawio.bkp
+miscellaneous
+Data/faces
+Data/Dataset
+architecture.drawio
+Data/Detected
